@@ -1,0 +1,5 @@
+frog 17
+cup 18
+book 12
+comic_cup 29
+bear 29
